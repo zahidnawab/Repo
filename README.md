@@ -6,15 +6,6 @@ The Smart Mental Health Support System for Depression Detection and Therapy (SMH
 3: HTML/CSS  <br />
 4: Deep Learning<br />
 ### Usage
-1: Download zip file. Extract project in your PC and open project in your favorite editor. <br />
-2: Download & Install python 3.10 and xamp from (https://drive.google.com/drive/folders/1bi1CMQm8SoedQyMH0Kts1e2hMvfPf-Xd?usp=sharing)  <br />
-3: Start Xamp <br />
-4: Create virtual enviroment by using command (python -m venv enviromentname) <br />
-5: Activate enviroment by using command (enviromenrname\Scripts\activate) <br />
-6: Install require libraries by using command (pip install -r requirements.txt) <br />
-7: Run project by using command (python app.py <br />
-8: Install nltk toolkit for chatbot functionality<br />
-### Demo  Video
-Check the demo video from (https://drive.google.com/drive/folders/1m4WtBRLl_jB4aUy4xduRTKl6QXpeKjTM?usp=sharing)
-### Author
-For complete source code contact me on (https://www.linkedin.com/in/ayesha-khan-2b058020a/)
+
+
+Hi I'm Zahid and going to do Repo Fork.
